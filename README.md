@@ -32,7 +32,7 @@ const LokeshS = {
   currentlyLearning : ["TypeScript", "Docker",
                        "System Design", "REST APIs"],
 
-  funFact     : "I built a real-time app for a company in Uganda 🇺🇬",
+  Application     : "I built a real-time app for a company in Uganda 🇺🇬",
 
   motto       : () => "Ship it. Learn from it. Build it better.",
 };
@@ -81,7 +81,7 @@ const LokeshS = {
 <a href="https://github.com/master25082005">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=master25082005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/lokesh-s">
+<a href="https://github.com/master25082005">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master25082005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
