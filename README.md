@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Lokesh+S+%F0%9F%91%8B;Full+Stack+Web+Developer+%7C+React+%2B+Node.js;Building+Web+%26+Mobile+Apps+with+Firebase;Python+%7C+Java+%7C+JavaScript+Enthusiast)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=lokesh-s&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/lokesh-s)
-[![GitHub followers](https://img.shields.io/github/followers/lokesh-s?style=flat-square&color=bf91f3&logo=github)](https://github.com/lokesh-s)
+[![Profile Views](https://komarev.com/ghpvc/?username=lokesh-s&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/master25082005)
+[![GitHub followers](https://img.shields.io/github/followers/lokesh-s?style=flat-square&color=bf91f3&logo=github)](https://github.com/master25082005)
 
 </div>
 
