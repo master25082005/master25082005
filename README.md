@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Lokesh+S+%F0%9F%91%8B;Full+Stack+Web+Developer+%7C+React+%2B+Node.js;Building+Web+%26+Mobile+Apps+with+Firebase;Python+%7C+Java+%7C+JavaScript+Enthusiast)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=lokesh-s&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/master25082005)
-[![GitHub followers](https://img.shields.io/github/followers/lokesh-s?style=flat-square&color=bf91f3&logo=github)](https://github.com/master25082005)
+[![GitHub followers](https://img.shields.io/github/followers/master25082005?style=flat-square&color=bf91f3&logo=github)](https://github.com/master25082005)
 
 </div>
 
@@ -78,11 +78,11 @@ const LokeshS = {
 
 <div align="center">
 
-<a href="https://github.com/lokesh-s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lokesh-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/master25082005">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=master25082005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/lokesh-s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master25082005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -93,7 +93,7 @@ const LokeshS = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lokesh-s&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=master25082005&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -103,7 +103,7 @@ const LokeshS = {
 
 <div align="center">
 
-[![Lokesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokesh-s&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/lokesh-s)
+[![Lokesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=master25082005&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/master25082005)
 
 </div>
 
@@ -113,7 +113,7 @@ const LokeshS = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lokesh-s&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=master25082005-s&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -194,10 +194,10 @@ const LokeshS = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/lokesh-suresh-9b19a227b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sureshlokesh384@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lokesh-s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://lokesh-s.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/master25082005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://lokesh-portfolio-orcin.vercel.app/)
 
 </div>
 
