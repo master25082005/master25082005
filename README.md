@@ -113,7 +113,7 @@ const LokeshS = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=master25082005-s&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=master25082005-s&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/master25082005)
 
 </div>
 
